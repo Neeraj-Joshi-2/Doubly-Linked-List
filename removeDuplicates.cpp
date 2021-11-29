@@ -5,7 +5,7 @@ sorted doubly linked list */
 using namespace std;
 
 /* a node of the doubly linked list */
-struct Node {
+struct Node { 
 	int data;
 	struct Node* next;
 	struct Node* prev;
