@@ -8,7 +8,7 @@ class Node
 public:
 	int data;
 	Node *next;
-	Node *prev;
+	Node *prev; 
 };
 
 void swap(int *a, int *b)
