@@ -79,6 +79,6 @@ int main()
 	sortedInsert(&head, new_node);
 
 	cout << "Created Doubly Linked Listn";
-	printList(head);
+	printList(head); 
 	return 0;
 }
