@@ -6,7 +6,7 @@ using namespace std;
 struct Node
 {
 	int data;
-	Node *next,*random;
+	Node *next,*random; 
 	Node(int x)
 	{
 		data = x;
