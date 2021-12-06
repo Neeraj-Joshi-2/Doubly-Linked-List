@@ -6,7 +6,7 @@ struct Node{
     Node* next ;
     Node* prev ;
 };
-
+ 
 Node* head ;
 
 void push(int new_data)
