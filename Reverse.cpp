@@ -11,7 +11,7 @@ struct Node{
 
 Node* head ;
 
-void push(int new_data)
+void push(int new_data) 
 {
     Node* temp = new Node() ;
     temp->data = new_data ;
