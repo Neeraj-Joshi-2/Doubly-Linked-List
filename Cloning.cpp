@@ -9,7 +9,7 @@ struct Node
 	Node *next,*random; 
 	Node(int x)
 	{
-		data = x;
+		data = x; 
 		next = random = NULL;
 	}
 };
